@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mnapoli/silly": "^1.7",
+        "php": "7.*^"
+    }
+}
